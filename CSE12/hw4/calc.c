@@ -24,7 +24,7 @@ Description:    Program that will simulate a top-of-the-line calculator that
 #define INDEX(word) (((word) & 0x0000FF00) >> 8)
 #define PRIORITY(word) ((word) & 0x0000FE00)
 #define SIGN_BIT (1L << ((sizeof (long) << 3) - 1))
-#define BYTE 8 /* number of bits in a byte */
+#define BYTE 8
 
 static char operators[] = "()+-*/^ !";
 

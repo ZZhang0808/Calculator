@@ -1,0 +1,17 @@
+Script started on Sat Sep 28 18:19:53 2019
+]0;[cs12fa19]  cs12fa19gt@its-cseb250-16.ucsd.edu:/home/linux/ieng6/cs12fa19/cs12fa19gt/hw1[?1034h[cs12fa19gt@its-cseb250-16]:hw1:125$ ./driver1
+Merhaba Dunya
+Hello World
+123
+0
+0x000000000FEEDDAD
+[cs12fa19gt@its-cseb250-16]:hw1:125$ ./driver2
+Merhaba Dunya
+Hello World
+123
+0
+0x000000000FEEDDAD
+[cs12fa19gt@its-cseb250-16]:hw1:126$ exit
+exit
+
+Script done on Sat Sep 28 18:20:10 2019
